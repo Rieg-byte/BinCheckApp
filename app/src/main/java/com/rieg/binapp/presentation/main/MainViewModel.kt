@@ -35,7 +35,6 @@ class MainViewModel @Inject constructor(
             val cardInfo = cardInfoRepository.getCardInfo(bin)
             _mainUiState.value = MainUiState.Success(cardInfo = cardInfo)
         } catch (e: Exception) {
-            Log.d("f", e.toString())
             _mainUiState.value = MainUiState.Error
         }
     }

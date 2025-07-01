@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BinApp</string>
+    <string name="search">Поиск</string>
+    <string name="placeholder_bincode">0000 0000</string>
+    <string name="bincode_input">Введите BIN</string>
+    <string name="query_history">История запросов</string>
+    <string name="network">Сеть</string>
+    <string name="brand">Бренд</string>
+    <string name="bank">Банк</string>
+    <string name="country">Страна</string>
+    <string name="type">Тип</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="bin">BIN</string>
+    <string name="no_history">Нет истории запросов</string>
+    <string name="error_text">При запросе произошла ошибка</string>
+    <string name="error_bin">Минимум 6 цифр BIN</string>
+    <string name="phone">Телефон</string>
+    <string name="url">URL</string>
+    <string name="city">Город</string>
+</resources>
